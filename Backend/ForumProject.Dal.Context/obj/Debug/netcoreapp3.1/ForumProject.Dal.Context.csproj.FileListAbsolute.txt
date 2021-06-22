@@ -1,0 +1,15 @@
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Dal.Context.deps.json
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Dal.Context.runtimeconfig.json
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Dal.Context.runtimeconfig.dev.json
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Dal.Context.dll
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Dal.Context.pdb
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.dll
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.pdb
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.csprojAssemblyReference.cache
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.AssemblyInfoInputs.cache
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.AssemblyInfo.cs
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.csproj.CoreCompileInputs.cache
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.csproj.CopyComplete
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.dll
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.pdb
+C:\GitRepos\forum\Backend\ForumProject.Dal.Context\obj\Debug\netcoreapp3.1\ForumProject.Dal.Context.genruntimeconfig.cache

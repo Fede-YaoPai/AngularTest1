@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ForumProject.Biz.Services/1.0.0": {
+        "dependencies": {
+          "ForumProject.Biz.Domain": "1.0.0",
+          "ForumProject.Biz.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ForumProject.Biz.Services.dll": {}
+        }
+      },
+      "ForumProject.Biz.Domain/1.0.0": {
+        "runtime": {
+          "ForumProject.Biz.Domain.dll": {}
+        }
+      },
+      "ForumProject.Biz.Interfaces/1.0.0": {
+        "dependencies": {
+          "ForumProject.Biz.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ForumProject.Biz.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForumProject.Biz.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForumProject.Biz.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ForumProject.Biz.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

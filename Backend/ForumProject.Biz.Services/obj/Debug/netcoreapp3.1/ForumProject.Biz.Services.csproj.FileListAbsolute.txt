@@ -1,0 +1,14 @@
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Services.deps.json
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Services.dll
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Services.pdb
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.dll
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Interfaces.dll
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.pdb
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\bin\Debug\netcoreapp3.1\ForumProject.Biz.Interfaces.pdb
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.csprojAssemblyReference.cache
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.AssemblyInfoInputs.cache
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.AssemblyInfo.cs
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.csproj.CoreCompileInputs.cache
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.csproj.CopyComplete
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.dll
+C:\GitRepos\forum\Backend\ForumProject.Biz.Services\obj\Debug\netcoreapp3.1\ForumProject.Biz.Services.pdb

@@ -1,0 +1,9 @@
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.deps.json
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.dll
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\bin\Debug\netcoreapp3.1\ForumProject.Biz.Domain.pdb
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\obj\Debug\netcoreapp3.1\ForumProject.Biz.Domain.csprojAssemblyReference.cache
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\obj\Debug\netcoreapp3.1\ForumProject.Biz.Domain.AssemblyInfoInputs.cache
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\obj\Debug\netcoreapp3.1\ForumProject.Biz.Domain.AssemblyInfo.cs
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\obj\Debug\netcoreapp3.1\ForumProject.Biz.Domain.csproj.CoreCompileInputs.cache
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\obj\Debug\netcoreapp3.1\ForumProject.Biz.Domain.dll
+C:\GitRepos\forum\Backend\ForumProject.Biz.Domain\obj\Debug\netcoreapp3.1\ForumProject.Biz.Domain.pdb
