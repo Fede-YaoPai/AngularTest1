@@ -1,9 +1,16 @@
-import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
+import {NgModule} from '@angular/core';
+import {BrowserModule} from '@angular/platform-browser';
 
+<<<<<<< HEAD
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LoginComponent } from './features/login/login.component';
+=======
+import {AppRoutingModule} from './app-routing.module';
+import {AppComponent} from './app.component';
+import {HomeModule} from "./features/home/home.module";
+import {LayoutModule} from "./core/layout/layout.module";
+>>>>>>> features/ale
 
 @NgModule({
   declarations: [
@@ -12,7 +19,9 @@ import { LoginComponent } from './features/login/login.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    LayoutModule,
+    HomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
